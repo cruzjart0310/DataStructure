@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Others\GarbageColector\" />
+    <Folder Include="Others\Threads\" />
+    <Folder Include="POO\Internal\" />
+    <Folder Include="POO\Override\" />
+    <Folder Include="POO\Overloading\" />
+    <Folder Include="POO\Partial\" />
+    <Folder Include="POO\Virtual\" />
+    <Folder Include="POO\Sealed\" />
+    <Folder Include="Others\BoxingUnboxing\" />
+    <Folder Include="Others\DataStructure\" />
+    <Folder Include="Others\Parallel\" />
+  </ItemGroup>
+
+</Project>

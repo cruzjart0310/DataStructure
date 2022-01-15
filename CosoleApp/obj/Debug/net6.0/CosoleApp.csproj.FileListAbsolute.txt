@@ -1,0 +1,16 @@
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\bin\Debug\net6.0\CosoleApp.exe
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\bin\Debug\net6.0\CosoleApp.deps.json
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\bin\Debug\net6.0\CosoleApp.runtimeconfig.json
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\bin\Debug\net6.0\CosoleApp.dll
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\bin\Debug\net6.0\ref\CosoleApp.dll
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\bin\Debug\net6.0\CosoleApp.pdb
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\obj\Debug\net6.0\CosoleApp.GlobalUsings.g.cs
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\obj\Debug\net6.0\CosoleApp.csproj.AssemblyReference.cache
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\obj\Debug\net6.0\CosoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\obj\Debug\net6.0\CosoleApp.AssemblyInfoInputs.cache
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\obj\Debug\net6.0\CosoleApp.AssemblyInfo.cs
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\obj\Debug\net6.0\CosoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\obj\Debug\net6.0\CosoleApp.dll
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\obj\Debug\net6.0\ref\CosoleApp.dll
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\obj\Debug\net6.0\CosoleApp.pdb
+C:\Users\Arturo Cruz\source\repos\CosoleApp\CosoleApp\obj\Debug\net6.0\CosoleApp.genruntimeconfig.cache
